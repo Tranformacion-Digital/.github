@@ -31,18 +31,28 @@
 
 `<link>` : <https://github.com/Tranformacion-Digital/Planta-ESP32>
 
+![](https://img.shields.io/github/stars/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/release/Tranformacion-Digital/Planta-ESP32) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Planta-ESP32)
+
 ### Simulador de planta en Codesys
 
 `<link>` : <https://github.com/Tranformacion-Digital/Planta-PLC>
+
+![](https://img.shields.io/github/stars/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/release/Tranformacion-Digital/Planta-PLC) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Planta-PLC)
 
 ### Gateway
 
 `<link>` : <https://github.com/Tranformacion-Digital/Gateway>
 
+![](https://img.shields.io/github/stars/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/forks/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/tag/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/release/Tranformacion-Digital/Gateway) ![](https://img.shields.io/github/issues/Tranformacion-Digital/Gateway)
+
 ### Aplicativo web
 
 `<link>` : <https://github.com/Tranformacion-Digital/AplicativoWeb>
 
+![](https://img.shields.io/github/stars/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/forks/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/tag/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/release/Tranformacion-Digital/AplicativoWeb) ![](https://img.shields.io/github/issues/Tranformacion-Digital/AplicativoWeb)
+
 ### BackEnd
 
 `<link>` : <https://github.com/Tranformacion-Digital/RequestFactory>
+
+![](https://img.shields.io/github/stars/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/forks/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/tag/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/release/Tranformacion-Digital/RequestFactory) ![](https://img.shields.io/github/issues/Tranformacion-Digital/RequestFactory)
